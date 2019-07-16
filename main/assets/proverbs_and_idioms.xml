@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProverbsAndIdioms>
+	<Proverbs>
+        <proverb>A bad penny always turns up</proverb>
+        <proverb>A barking dog never bites</proverb>
+        <proverb>A bird in the hand is worth two in the bush</proverb>
+        <proverb>A cat may look at a king</proverb>
+        <proverb>A chain is only as strong as its weakest link</proverb>
+        <proverb>A change is as good as a rest</proverb>
+        <proverb>A dog is a man's best friend</proverb>
+        <proverb>A drowning man will clutch at a straw</proverb>
+        <proverb>A fish always rots from the head down</proverb>
+        <proverb>A fool and his money are soon parted</proverb>
+        <proverb>A friend in need is a friend indeed</proverb>
+        <proverb>A golden key can open any door</proverb>
+        <proverb>A good beginning makes a good ending</proverb>
+        <proverb>A good man is hard to find</proverb>
+        <proverb>A house divided against itself cannot stand</proverb>
+        <proverb>A house is not a home</proverb>
+        <proverb>A journey of a thousand miles begins with a single step</proverb>
+        <proverb>A leopard cannot change its spots</proverb>
+        <proverb>A little knowledge is a dangerous thing</proverb>
+        <proverb>A little learning is a dangerous thing</proverb>
+        <proverb>A little of what you fancy does you good</proverb>
+        <proverb>A man is known by his friends</proverb>
+        <proverb>A man who is his own lawyer has a fool for his client</proverb>
+        <proverb>A miss is as good as a mile</proverb>
+        <proverb>A new broom sweeps clean</proverb>
+        <proverb>A nod's as good as a wink to a blind horse</proverb>
+        <proverb>A penny saved is a penny earned</proverb>
+        <proverb>A person is known by the company he keeps</proverb>
+        <proverb>A picture paints a thousand words</proverb>
+        <proverb>A place for everything and everything in its place</proverb>
+        <proverb>A poor workman always blames his tools</proverb>
+        <proverb>A problem shared is a problem halved</proverb>
+        <proverb>A prophet is not recognized in his own land</proverb>
+        <proverb>A rising tide lifts all boats</proverb>
+        <proverb>A rolling stone gathers no moss</proverb>
+        <proverb>A soft answer turneth away wrath</proverb>
+        <proverb>A stitch in time saves nine</proverb>
+        <proverb>A swarm in May is worth a load of hay; a swarm in June is worth a silver spoon; but a swarm in July is not worth a fly</proverb>
+        <proverb>A thing of beauty is a joy forever</proverb>
+        <proverb>A time and a place for everything - There's</proverb>
+        <proverb>A trouble shared is a trouble halved</proverb>
+        <proverb>A volunteer is worth twenty pressed men</proverb>
+        <proverb>A watched pot never boils</proverb>
+        <proverb>A woman is only a woman, but a good cigar is a smoke</proverb>
+        <proverb>A woman's place is in the home</proverb>
+        <proverb>A woman's work is never done</proverb>
+        <proverb>A word to the wise is enough</proverb>
+        <proverb>Absence makes the heart grow fonder</proverb>
+        <proverb>Absolute power corrupts absolutely</proverb>
+        <proverb>Accidents will happen (in the best-regulated families).</proverb>
+        <proverb>Actions speak louder than words</proverb>
+        <proverb>Adversity makes strange bedfellows</proverb>
+        <proverb>After a storm comes a calm</proverb>
+        <proverb>Age of miracles is past - The</proverb>
+        <proverb>Ain't over till the fat lady sings - It</proverb>
+        <proverb>All good things come to he who waits</proverb>
+        <proverb>All good things must come to an end</proverb>
+        <proverb>All is grist that comes to the mill</proverb>
+        <proverb>All publicity is good publicity</proverb>
+        <proverb>All roads lead to Rome</proverb>
+        <proverb>All that glisters is not gold</proverb>
+        <proverb>All that glitters is not gold</proverb>
+        <proverb>All the world loves a lover</proverb>
+        <proverb>All things come to those that wait</proverb>
+        <proverb>All things must pass</proverb>
+        <proverb>All work and no play makes Jack a dull boy</proverb>
+        <proverb>All you need is love</proverb>
+        <proverb>All's fair in love and war</proverb>
+        <proverb>All's for the best in the best of all possible worlds</proverb>
+        <proverb>All's well that ends well</proverb>
+        <proverb>A miss is as good as a mile</proverb>
+        <proverb>An apple a day keeps the doctor away</proverb>
+        <proverb>An army marches on its stomach</proverb>
+        <proverb>An Englishman's home is his castle</proverb>
+        <proverb>An exception to every rule - There's</proverb>
+        <proverb>Always more fish in the sea - There's</proverb>
+        <proverb>An eye for an eye, a tooth for a tooth</proverb>
+        <proverb>An ill wind that blows no one any good - It's</proverb>
+        <proverb>An ounce of prevention is worth a pound of cure</proverb>
+        <proverb>Another day, another dollar</proverb>
+        <proverb>Any port in a storm</proverb>
+        <proverb>Appearances can be deceptive</proverb>
+        <proverb>Apple a day keeps the doctor away - An</proverb>
+        <proverb>Apple never falls far from the tree - The</proverb>
+        <proverb>April is the cruellest month</proverb>
+        <proverb>April showers bring forth May flowers</proverb>
+        <proverb>Army marches on its stomach - An</proverb>
+        <proverb>As thick as thieves</proverb>
+        <proverb>As you make your bed, so you must lie upon it</proverb>
+        <proverb>As you sow so shall you reap</proverb>
+        <proverb>Ashes to ashes dust to dust</proverb>
+        <proverb>Ask a silly question and you'll get a silly answer</proverb>
+        <proverb>Ask no questions and hear no lies</proverb>
+        <proverb>Attack is the best form of defence</proverb>
+        <proverb>Bad money drives out good</proverb>
+        <proverb>Bad news travels fast</proverb>
+        <proverb>Bad penny always turns up - A</proverb>
+        <proverb>Barking dog never bites - A</proverb>
+        <proverb>Be careful what you wish for</proverb>
+        <proverb>Beat swords into ploughshares</proverb>
+        <proverb>Beauty is in the eye of the beholder</proverb>
+        <proverb>Beauty is only skin deep</proverb>
+        <proverb>Beggars should not be choosers</proverb>
+        <proverb>Behind every great man there's a great woman</proverb>
+        <proverb>Best defence is a good offence - The</proverb>
+        <proverb>Best is the enemy of the good - The</proverb>
+        <proverb>Best-laid schemes of mice and men gang aft agley - The</proverb>
+        <proverb>Best things in life are free - The</proverb>
+        <proverb>Better late than never</proverb>
+        <proverb>Better safe than sorry</proverb>
+        <proverb>Better the Devil you know than the Devil you don't</proverb>
+        <proverb>Best to be on the safe side - It's</proverb>
+        <proverb>Better to give than to receive - It's</proverb>
+        <proverb>Better to have loved and lost than never to have loved at all</proverb>
+        <proverb>Better to light a candle than to curse the darkness</proverb>
+        <proverb>Better to remain silent and be thought a fool that to speak and remove all doubt</proverb>
+        <proverb>Better to travel hopefully than to arrive - It's</proverb>
+        <proverb>Between two stools one falls to the ground</proverb>
+        <proverb>Beware of Greeks bearing gifts</proverb>
+        <proverb>Beware the Ides of March</proverb>
+        <proverb>Big fish eat little fish</proverb>
+        <proverb>Bigger, the better - The</proverb>
+        <proverb>Bigger they are, the harder they fall - The</proverb>
+        <proverb>Bird in the hand is worth two in the bush - A</proverb>
+        <proverb>Birds of a feather flock together</proverb>
+        <proverb>Blessed are the peacemakers</proverb>
+        <proverb>Blood is thicker than water</proverb>
+        <proverb>Blue are the hills that are far away</proverb>
+        <proverb>Bottom line is the bottom line - The</proverb>
+        <proverb>Boy is father to the man - The</proverb>
+        <proverb>Boys will be boys</proverb>
+        <proverb>Bread always falls buttered side down</proverb>
+        <proverb>Brevity is the soul of wit</proverb>
+        <proverb>Business before pleasure</proverb>
+        <proverb>Caesar's wife must be above suspicion</proverb>
+        <proverb>Carpe diem (Pluck the day; Seize the day)</proverb>
+        <proverb>Cat may look at a king - A</proverb>
+        <proverb>Chain is only as strong as its weakest link - A</proverb>
+        <proverb>Change is as good as a rest - A</proverb>
+        <proverb>Charity begins at home</proverb>
+        <proverb>Charity covers a multitude of sins</proverb>
+        <proverb>Cheaters never win and winners never cheat</proverb>
+        <proverb>Cheats never prosper</proverb>
+        <proverb>Child is the father of the man - The</proverb>
+        <proverb>Children and fools tell the truth</proverb>
+        <proverb>Children should be seen and not heard</proverb>
+        <proverb>Christmas comes but once a year</proverb>
+        <proverb>Cleanliness is next to godliness</proverb>
+        <proverb>Clothes maketh the man</proverb>
+        <proverb>Cobbler always wears the worst shoes - The</proverb>
+        <proverb>Cold hands, warm heart</proverb>
+        <proverb>Comparisons are odious</proverb>
+        <proverb>Count your blessings</proverb>
+        <proverb>Course of true love never did run smooth - The</proverb>
+        <proverb>Cowards may die many times before their death</proverb>
+        <proverb>Crime doesn't pay</proverb>
+        <proverb>Curiosity killed the cat</proverb>
+        <proverb>Customer is always right - The</proverb>
+        <proverb>Cut your coat to suit your cloth</proverb>
+        <proverb>Darkest hour is just before the dawn - The</proverb>
+        <proverb>Dead men tell no tales</proverb>
+        <proverb>Devil is in the details - The</proverb>
+        <proverb>Devil looks after his own - The</proverb>
+        <proverb>Devil makes work for idle hands to do - The</proverb>
+        <proverb>Devil take the hindmost - The</proverb>
+        <proverb>Different strokes for different folks</proverb>
+        <proverb>Discretion is the better part of valour</proverb>
+        <proverb>Distance lends enchantment to the view</proverb>
+        <proverb>Do as I say, not as I do</proverb>
+        <proverb>Do as you would be done by</proverb>
+        <proverb>Do unto others as you would have them do to you</proverb>
+        <proverb>A dog is a man's best friend - A</proverb>
+        <proverb>Don't bite the hand that feeds you</proverb>
+        <proverb>Don't burn your bridges behind you</proverb>
+        <proverb>Don't cast your pearls before swine</proverb>
+        <proverb>Don't change horses in midstream</proverb>
+        <proverb>Don't count your chickens before they are hatched</proverb>
+        <proverb>Don't cross the bridge till you come to it</proverb>
+        <proverb>Don't cut off your nose to spite your face</proverb>
+        <proverb>Don't get mad, get even</proverb>
+        <proverb>Don't keep a dog and bark yourself</proverb>
+        <proverb>Don't leave your manners on the doorstep</proverb>
+        <proverb>Don't let the bastards grind you down</proverb>
+        <proverb>Don't let the cat out of the bag</proverb>
+        <proverb>Don't let the grass grow under your feet</proverb>
+        <proverb>Don't meet troubles half-way</proverb>
+        <proverb>Don't mix business with pleasure</proverb>
+        <proverb>Don't put all your eggs in one basket</proverb>
+        <proverb>Don't put the cart before the horse</proverb>
+        <proverb>Don't put new wine into old bottles</proverb>
+        <proverb>Don't rock the boat</proverb>
+        <proverb>Don't shoot the messenger</proverb>
+        <proverb>Don't spoil the ship for a ha'porth of tar</proverb>
+        <proverb>Don't shut the stable door after the horse has bolted</proverb>
+        <proverb>Don't sweat the small stuff</proverb>
+        <proverb>Don't throw pearls to swine</proverb>
+        <proverb>Don't teach your Grandma to suck eggs</proverb>
+        <proverb>Don't throw good money after bad</proverb>
+        <proverb>Don't throw the baby out with the bathwater</proverb>
+        <proverb>Don't trust anyone over thirty</proverb>
+        <proverb>Don't try to run before you can walk</proverb>
+        <proverb>Don't try to walk before you can crawl</proverb>
+        <proverb>Don't upset the apple-cart</proverb>
+        <proverb>Don't wash your dirty linen in public</proverb>
+        <proverb>Doubt is the beginning not the end of wisdom</proverb>
+        <proverb>Drowning man will clutch at a straw - A</proverb>
+        <proverb>Early to bed and early to rise, makes a man healthy, wealthy and wise</proverb>
+        <proverb>Each to their own</proverb>
+        <proverb>Early bird catches the worm - The</proverb>
+        <proverb>East is east, and west is west</proverb>
+        <proverb>East, west, home's best</proverb>
+        <proverb>Easy come, easy go</proverb>
+        <proverb>Easy to be wise after the event - It's</proverb>
+        <proverb>Eat, drink and be merry, for tomorrow we die</proverb>
+        <proverb>Empty vessels make the most noise</proverb>
+        <proverb>End justifies the means - The</proverb>
+        <proverb>English are a nation of shopkeepers - The</proverb>
+        <proverb>Englishman's home is his castle - An</proverb>
+        <proverb>Enough is as good as a feast</proverb>
+        <proverb>Enough is enough</proverb>
+        <proverb>Even a worm will turn</proverb>
+        <proverb>Every cloud has a silver lining</proverb>
+        <proverb>Every dog has its day</proverb>
+        <proverb>Every little helps</proverb>
+        <proverb>Every man for himself, and the Devil take the hindmost</proverb>
+        <proverb>Every man has his price</proverb>
+        <proverb>Every picture tells a story</proverb>
+        <proverb>Every stick has two ends</proverb>
+        <proverb>Everyone wants to go to heaven but nobody wants to die</proverb>
+        <proverb>Everything comes to him who waits</proverb>
+        <proverb>Exception which proves the rule - The</proverb>
+        <proverb>Eye for an eye, a tooth for a tooth - An</proverb>
+		<proverb>Failing to plan is planning to fail</proverb>
+		<proverb>Faint heart never won fair lady</proverb>
+		<proverb>Fair exchange is no robbery</proverb>
+		<proverb>Faith will move mountains</proverb>
+		<proverb>Familiarity breeds contempt</proverb>
+		<proverb>Fat is in the fire - The</proverb>
+		<proverb>Feed a cold and starve a fever</proverb>
+		<proverb>Female of the species is more deadly than the male - The</proverb>
+		<proverb>Fight fire with fire</proverb>
+		<proverb>Fight the good fight</proverb>
+		<proverb>Finders keepers, losers weepers</proverb>
+		<proverb>Fine words butter no parsnips</proverb>
+		<proverb>Fire is a good servant but a bad master</proverb>
+		<proverb>First come, first served</proverb>
+		<proverb>First impressions are the most lasting</proverb>
+		<proverb>First things first</proverb>
+		<proverb>Fish always stink from the head down</proverb>
+		<proverb>Fish and guests smell after three days</proverb>
+		<proverb>Flattery will get you nowhere</proverb>
+		<proverb>Fool and his money are soon parted - A</proverb>
+		<proverb>Fools rush in where angels fear to tread</proverb>
+		<proverb>For everything there is a season</proverb>
+		<proverb>For want of a nail the shoe was lost; for want of a shoe the horse was lost; and for want of a horse the man was lost</proverb>
+		<proverb>Forewarned is forearmed</proverb>
+		<proverb>Forgive and forget</proverb>
+		<proverb>Fortune favours the brave</proverb>
+		<proverb>Friend in need is a friend indeed - A</proverb>
+		<proverb>From the sublime to the ridiculous is only one step</proverb>
+		<proverb>Genius is an infinite capacity for taking pains</proverb>
+		<proverb>Genius is one percent inspiration, ninety-nine percent perspiration</proverb>
+		<proverb>Give a man a fish and you will feed him for a day...</proverb>
+		<proverb>Give a dog a bad name and hang him</proverb>
+		<proverb>Give a man enough rope and he will hang himself</proverb>
+		<proverb>Give credit where credit is due</proverb>
+		<proverb>Give the Devil his due</proverb>
+		<proverb>Go the extra mile</proverb>
+		<proverb>God helps those who help themselves</proverb>
+		<proverb>Goes without saying - It</proverb>
+		<proverb>Golden key can open any door - A</proverb>
+		<proverb>Good beginning makes a good ending - A</proverb>
+		<proverb>Good die young - The</proverb>
+		<proverb>Good fences make good neighbours</proverb>
+		<proverb>Good man is hard to find - A</proverb>
+		<proverb>Good talk saves the food</proverb>
+		<proverb>Good things come in small packages</proverb>
+		<proverb>Good things come to those that wait</proverb>
+		<proverb>Grass is always greener on the other side of the fence - The</proverb>
+		<proverb>Great minds think alike</proverb>
+		<proverb>Great oaks from little acorns grow</proverb>
+		<proverb>Half a loaf is better than no bread</proverb>
+		<proverb>Hand that rocks the cradle rules the world - The</proverb>
+		<proverb>Handsome is as handsome does</proverb>
+		<proverb>Hard cases make bad law</proverb>
+		<proverb>Hard work never did anyone any harm</proverb>
+		<proverb>Haste makes waste</proverb>
+		<proverb>He that goes a-borrowing, goes a-sorrowing</proverb>
+		<proverb>He who can does, he who cannot, teaches</proverb>
+		<proverb>He who fights and runs away, may live to fight another day</proverb>
+		<proverb>He who hesitates is lost</proverb>
+		<proverb>He who laughs last laughs longest</proverb>
+		<proverb>He who lives by the sword shall die by the sword</proverb>
+		<proverb>He who pays the piper calls the tune</proverb>
+		<proverb>He who sups with the Devil should have a long spoon</proverb>
+		<proverb>Hear all, see all, say nowt, tak' all, keep all, gie nowt, and if tha ever does owt for nowt do it for thysen</proverb>
+		<proverb>Hell hath no fury like a woman scorned</proverb>
+		<proverb>Hindsight is always twenty-twenty</proverb>
+		<proverb>History repeats itself</proverb>
+		<proverb>Hold with the hare and run with the hounds - You can't</proverb>
+		<proverb>Home is where the heart is</proverb>
+		<proverb>Honesty is the best policy</proverb>
+		<proverb>Honey catches more flies than vinegar</proverb>
+		<proverb>Honour among thieves - There's</proverb>
+		<proverb>Hope springs eternal</proverb>
+		<proverb>Horses for courses</proverb>
+		<proverb>House divided against itself cannot stand - A</proverb>
+		<proverb>House is not a home - A</proverb>
+		<proverb>Husband is always the last to know - The</proverb>
+		<proverb>If anything can go wrong, it will</proverb>
+		<proverb>If a job is worth doing it is worth doing well</proverb>
+		<proverb>If at first you don't succeed try, try and try again</proverb>
+		<proverb>If God had meant us to fly he'd have given us wings</proverb>
+		<proverb>If ifs and ands were pots and pans there'd be no work for tinkers</proverb>
+		<proverb>If it ain't broke, don't fix it</proverb>
+		<proverb>If life deals you lemons, make lemonade</proverb>
+		<proverb>If the cap fits, wear it</proverb>
+		<proverb>If the mountain won't come to Mohammed, then Mohammed must go to the mountain</proverb>
+		<proverb>If the shoe fits, wear it</proverb>
+		<proverb>If wishes were horses, beggars would ride</proverb>
+		<proverb>If you build it they will come</proverb>
+		<proverb>If you can't be good, be careful</proverb>
+		<proverb>If you can't beat em, join em</proverb>
+		<proverb>If you can't stand the heat get out of the kitchen</proverb>
+		<proverb>If you lie down with dogs, you will get up with fleas</proverb>
+		<proverb>If you pay peanuts, you get monkeys</proverb>
+		<proverb>If you want a thing done well, do it yourself</proverb>
+		<proverb>Ignorance is bliss</proverb>
+		<proverb>Imitation is the sincerest form of flattery</proverb>
+		<proverb>In for a penny, in for a pound</proverb>
+		<proverb>In the kingdom of the blind the one eyed man is king</proverb>
+		<proverb>In the midst of life we are in death</proverb>
+		<proverb>Into every life a little rain must fall</proverb>
+		<proverb>It ain't over till the fat lady sings</proverb>
+		<proverb>It goes without saying</proverb>
+		<proverb>It never rains but it pours</proverb>
+		<proverb>It takes a thief to catch a thief</proverb>
+		<proverb>It takes all sorts to make a world</proverb>
+		<proverb>It takes one to know one</proverb>
+		<proverb>It takes two to tango</proverb>
+		<proverb>It's all grist to the mill</proverb>
+		<proverb>It's an ill wind that blows no one any good</proverb>
+		<proverb>It's best to be on the safe side</proverb>
+		<proverb>It's better to give than to receive</proverb>
+		<proverb>It's better to have loved and lost than never to have loved at all</proverb>
+		<proverb>It's better to light a candle than curse the darkness</proverb>
+		<proverb>It's better to travel hopefully than to arrive</proverb>
+		<proverb>It's easy to be wise after the event</proverb>
+		<proverb>It's never too late</proverb>
+		<proverb>It's no use crying over spilt milk</proverb>
+		<proverb>It's no use locking the stable door after the horse has bolted</proverb>
+		<proverb>It's the early bird that catches the worm</proverb>
+		<proverb>It's the empty can that makes the most noise</proverb>
+		<proverb>It's the singer not the song</proverb>
+		<proverb>It's the squeaky wheel that gets the grease</proverb>
+		<proverb>Jack of all trades, master of none</proverb>
+		<proverb>Jam tomorrow and jam yesterday, but never jam today</proverb>
+		<proverb>Journey of a thousand miles begins with a single step - A</proverb>
+		<proverb>Judge not, that ye be not judged</proverb>
+		<proverb>Keep your chin up</proverb>
+		<proverb>Keep your friends close and your enemies closer</proverb>
+		<proverb>Keep your powder dry</proverb>
+		<proverb>Know which side your bread is buttered</proverb>
+		<proverb>Labourer is worthy of his hire - The</proverb>
+		<proverb>Laugh and the world laughs with you, weep and you weep alone</proverb>
+		<proverb>Laughter is the best medicine</proverb>
+		<proverb>Law is an ass - The</proverb>
+		<proverb>Least said, soonest mended</proverb>
+		<proverb>Leopard cannot change its spots - A</proverb>
+		<proverb>Less is more</proverb>
+		<proverb>Let bygones be bygones</proverb>
+		<proverb>Let not the sun go down on your wrath</proverb>
+		<proverb>Let sleeping dogs lie</proverb>
+		<proverb>Let the buyer beware</proverb>
+		<proverb>Let the dead bury the dead</proverb>
+		<proverb>Let the punishment fit the crime</proverb>
+		<proverb>Let well alone</proverb>
+		<proverb>Life begins at forty</proverb>
+		<proverb>Life is just a bowl of cherries</proverb>
+		<proverb>Life is what you make it</proverb>
+		<proverb>Life's not all beer and skittles</proverb>
+		<proverb>Lightning never strikes twice in the same place</proverb>
+		<proverb>Like father, like son</proverb>
+		<proverb>Little knowledge is a dangerous thing - A</proverb>
+		<proverb>Little learning is a dangerous thing - A</proverb>
+		<proverb>Little of what you fancy does you good - A</proverb>
+		<proverb>Little pitchers have big ears</proverb>
+		<proverb>Little strokes fell great oaks</proverb>
+		<proverb>Little things please little minds</proverb>
+		<proverb>Live and learn</proverb>
+		<proverb>Live and let live</proverb>
+		<proverb>Live for today for tomorrow never comes</proverb>
+		<proverb>Longest journey starts with a single step - The</proverb>
+		<proverb>Look before you leap</proverb>
+		<proverb>Love of money is the root of all evil</proverb>
+		<proverb>Love is blind</proverb>
+		<proverb>Love makes the world go round</proverb>
+		<proverb>Love thy neighbour as thyself</proverb>
+		<proverb>Love will find a way</proverb>
+		<proverb>Make hay while the sun shines</proverb>
+		<proverb>Make haste slowly</proverb>
+		<proverb>Make love not war</proverb>
+		<proverb>Man does not live by bread alone</proverb>
+		<proverb>Man is known by his friends - A</proverb>
+		<proverb>Man who is his own lawyer has a fool for his client - A</proverb>
+		<proverb>Manners maketh man</proverb>
+		<proverb>Many a good tune played on an old fiddle - There's</proverb>
+		<proverb>Many a little makes a mickle</proverb>
+		<proverb>Many a mickle makes a muckle</proverb>
+		<proverb>Many a slip 'twixt cup and lip - There's</proverb>
+		<proverb>Many a true word is spoken in jest</proverb>
+		<proverb>Many are called but few are chosen</proverb>
+		<proverb>Many hands make light work</proverb>
+		<proverb>March comes in like a lion, and goes out like a lamb</proverb>
+		<proverb>March winds and April showers bring forth May flowers</proverb>
+		<proverb>Marriages are made in heaven</proverb>
+		<proverb>Marry in haste, repent at leisure</proverb>
+		<proverb>Might is right</proverb>
+		<proverb>Mighty oaks from little acorns grow</proverb>
+		<proverb>Misery loves company</proverb>
+		<proverb>Miss is as good as a mile - A</proverb>
+		<proverb>Moderation in all things</proverb>
+		<proverb>Monday's child is fair of face</proverb>
+		<proverb>Money doesn't grow on trees</proverb>
+		<proverb>Money is the root of all evil</proverb>
+		<proverb>Money isn't everything</proverb>
+		<proverb>Money makes the world go round</proverb>
+		<proverb>Money talks</proverb>
+		<proverb>More haste, less speed</proverb>
+		<proverb>More the merrier.</proverb>
+		<proverb>More things change, the more they stay the same - The</proverb>
+		<proverb>More ways of killing a cat than choking it with cream - There are</proverb>
+		<proverb>Music has charms to soothe the savage breast</proverb>
+		<proverb>Nature abhors a vacuum</proverb>
+		<proverb>Necessity is the mother of invention</proverb>
+		<proverb>Needs must when the devil drives</proverb>
+		<proverb>Ne'er cast a clout till May be out</proverb>
+		<proverb>Never give a sucker an even break</proverb>
+		<proverb>Never go to bed on an argument</proverb>
+		<proverb>Never judge a book by its cover</proverb>
+		<proverb>Never let the sun go down on your anger</proverb>
+		<proverb>Never look a gift horse in the mouth</proverb>
+		<proverb>Never put off until tomorrow what you can do today</proverb>
+		<proverb>Never rains but it pours - It</proverb>
+		<proverb>Never speak ill of the dead</proverb>
+		<proverb>Never tell tales out of school</proverb>
+		<proverb>Never too late - It's</proverb>
+		<proverb>New broom sweeps clean - A</proverb>
+		<proverb>Nine tailors make a man</proverb>
+		<proverb>No accounting for tastes - There's</proverb>
+		<proverb>No fool like an old fool - There's</proverb>
+		<proverb>No man can serve two masters</proverb>
+		<proverb>No man is an island</proverb>
+		<proverb>No names, no pack-drill</proverb>
+		<proverb>No news is good news</proverb>
+		<proverb>No one can make you feel inferior without your consent</proverb>
+		<proverb>No pain, no gain</proverb>
+		<proverb>No place like home - There's</proverb>
+		<proverb>No rest for the wicked</proverb>
+		<proverb>No smoke without fire - There's</proverb>
+		<proverb>No such thing as a free lunch - There's</proverb>
+		<proverb>No such thing as bad publicity - There's</proverb>
+		<proverb>No time like the present - There's</proverb>
+		<proverb>No use crying over spilt milk - It's</proverb>
+		<proverb>No use locking the stable door after the horse has bolted - It's</proverb>
+		<proverb>Nod's as good as a wink to a blind horse - A</proverb>
+		<proverb>None so blind as those who will not see - There's</proverb>
+		<proverb>None so deaf as those who will not hear - There's</proverb>
+		<proverb>Nothing new under the sun</proverb>
+		<proverb>Nothing is certain but death and taxes</proverb>
+		<proverb>Nothing succeeds like success</proverb>
+		<proverb>Nothing ventured, nothing gained</proverb>
+		<proverb>Oil and water don't mix</proverb>
+		<proverb>Old soldiers never die, they simply fade away.</proverb>
+		<proverb>Once a thief, always a thief</proverb>
+		<proverb>Once bitten, twice shy</proverb>
+		<proverb>One good turn deserves another</proverb>
+		<proverb>One half of the world does not know how the other half lives</proverb>
+		<proverb>One hand washes the other</proverb>
+		<proverb>One man's meat is another man's poison</proverb>
+		<proverb>One might as well be hanged for a sheep as a lamb</proverb>
+		<proverb>One law for the rich and another for the poor</proverb>
+		<proverb>One swallow does not make a summer</proverb>
+		<proverb>One volunteer is worth ten pressed men</proverb>
+		<proverb>One year's seeding makes seven years weeding</proverb>
+		<proverb>Only fools and horses work</proverb>
+		<proverb>Opera ain't over till the fat lady sings - The</proverb>
+		<proverb>Opportunity never knocks twice at any man's door</proverb>
+		<proverb>Opposites attract</proverb>
+		<proverb>Ounce of prevention is worth a pound of cure - An</proverb>
+		<proverb>Out of sight, out of mind</proverb>
+		<proverb>Parsley seed goes nine times to the Devil</proverb>
+		<proverb>Patience is a virtue</proverb>
+		<proverb>Pearls of wisdom</proverb>
+		<proverb>Pen is mightier than sword - The</proverb>
+		<proverb>Penny saved is a penny earned - A</proverb>
+		<proverb>Penny wise and pound foolish</proverb>
+		<proverb>People who live in glass houses shouldn't throw stones</proverb>
+		<proverb>Person is known by the company he keeps - A</proverb>
+		<proverb>Physician, heal thyself</proverb>
+		<proverb>Picture paints a thousand words - A</proverb>
+		<proverb>Place for everything and everything in its place - A</proverb>
+		<proverb>Poor workman always blames his tools - A</proverb>
+		<proverb>Possession is nine points of the law</proverb>
+		<proverb>Power corrupts; absolute power corrupts absolutely</proverb>
+		<proverb>Practice makes perfect</proverb>
+		<proverb>Practice what you preach</proverb>
+		<proverb>Prevention is better than cure</proverb>
+		<proverb>Price of liberty is eternal vigilance - The</proverb>
+		<proverb>Pride comes before a fall</proverb>
+		<proverb>Procrastination is the thief of time</proverb>
+		<proverb>Problem shared is a problem halved - A</proverb>
+		<proverb>Proof of the pudding is in the eating - The</proverb>
+		<proverb>Prophet is not recognized in his own land - A</proverb>
+		<proverb>Put your best foot forward</proverb>
+		<proverb>Quid pro quo</proverb>
+		<proverb>Rain before seven, fine before eleven</proverb>
+		<proverb>Red sky at night shepherd's delight; red sky in the morning, shepherd's warning</proverb>
+		<proverb>Revenge is a dish best served cold</proverb>
+		<proverb>Revenge is sweet</proverb>
+		<proverb>Rising tide lifts all boats - A</proverb>
+		<proverb>Road to hell is paved with good intentions - The</proverb>
+		<proverb>Rob Peter to pay Paul</proverb>
+		<proverb>Rolling stone gathers no moss - A</proverb>
+		<proverb>Rome wasn't built in a day</proverb>
+		<proverb>See a pin and pick it up, all the day you'll have good luck; see a pin and let it lie, bad luck you'll have all day</proverb>
+		<proverb>See no evil, hear no evil, speak no evil</proverb>
+		<proverb>Seeing is believing</proverb>
+		<proverb>Seek and you shall find</proverb>
+		<proverb>Set a thief to catch a thief</proverb>
+		<proverb>Share and share alike</proverb>
+		<proverb>Shoemaker's son always goes barefoot - The</proverb>
+		<proverb>Shrouds have no pockets</proverb>
+		<proverb>Silence is golden</proverb>
+		<proverb>Slow but sure</proverb>
+		<proverb>Soft answer turneth away wrath - A</proverb>
+		<proverb>Softly, softly, catchee monkey</proverb>
+		<proverb>Spare the rod and spoil the child</proverb>
+		<proverb>Speak as you find</proverb>
+		<proverb>Speak softly and carry a big stick</proverb>
+		<proverb>Squeaky wheel gets the grease - The</proverb>
+		<proverb>Sticks and stones may break my bones, but words will never hurt me</proverb>
+		<proverb>Still waters run deep</proverb>
+		<proverb>Stitch in time saves nine - A</proverb>
+		<proverb>Strike while the iron is hot</proverb>
+		<proverb>Stupid is as stupid does</proverb>
+		<proverb>Success has many fathers, while failure is an orphan</proverb>
+		<proverb>Take care of the pennies and the pounds will take care of themselves</proverb>
+		<proverb>Takes a thief to catch a thief - It</proverb>
+		<proverb>Takes all sorts to make a world - It</proverb>
+		<proverb>Takes one to know one - It</proverb>
+		<proverb>Talk is cheap</proverb>
+		<proverb>Talk of the Devil, and he is bound to appear</proverb>
+		<proverb>Tell the truth and shame the Devil</proverb>
+		<proverb>That which does not kill us makes us stronger</proverb>
+		<proverb>The age of miracles is past</proverb>
+		<proverb>The apple never falls far from the tree</proverb>
+		<proverb>The best defence is a good offence</proverb>
+		<proverb>The best is the enemy of the good</proverb>
+		<proverb>The best-laid schemes of mice and men gang aft agley</proverb>
+		<proverb>The best things in life are free</proverb>
+		<proverb>The bigger, the better</proverb>
+		<proverb>The bigger they are, the harder they fall</proverb>
+		<proverb>The bottom line is the bottom line</proverb>
+		<proverb>The boy is father to the man</proverb>
+		<proverb>The bread always falls buttered side down</proverb>
+		<proverb>The child is the father of the man</proverb>
+		<proverb>The cobbler always wears the worst shoes</proverb>
+		<proverb>The course of true love never did run smooth</proverb>
+		<proverb>The customer is always right</proverb>
+		<proverb>The darkest hour is just before the dawn</proverb>
+		<proverb>The Devil is in the details</proverb>
+		<proverb>The Devil looks after his own</proverb>
+		<proverb>The Devil makes work for idle hands to do</proverb>
+		<proverb>The Devil take the hindmost</proverb>
+		<proverb>The early bird catches the worm</proverb>
+		<proverb>The empty can that makes the most noise - It's</proverb>
+		<proverb>The end justifies the means</proverb>
+		<proverb>The English are a nation of shopkeepers</proverb>
+		<proverb>The exception which proves the rule</proverb>
+		<proverb>The fat is in the fire</proverb>
+		<proverb>The female of the species is more deadly than the male</proverb>
+		<proverb>The good die young</proverb>
+		<proverb>The grass is always greener on the other side of the fence</proverb>
+		<proverb>The hand that rocks the cradle rules the world</proverb>
+		<proverb>The husband is always the last to know</proverb>
+		<proverb>The labourer is worthy of his hire</proverb>
+		<proverb>The law is an ass</proverb>
+		<proverb>The leopard does not change his spots</proverb>
+		<proverb>The longest journey starts with a single step</proverb>
+		<proverb>The more the merrier</proverb>
+		<proverb>The more things change, the more they stay the same</proverb>
+		<proverb>The opera ain't over till the fat lady sings</proverb>
+		<proverb>The pen is mightier than sword</proverb>
+		<proverb>The price of liberty is eternal vigilance</proverb>
+		<proverb>The proof of the pudding is in the eating</proverb>
+		<proverb>The road to hell is paved with good intentions</proverb>
+		<proverb>The shoemaker's son always goes barefoot</proverb>
+		<proverb>The singer not the song - It's</proverb>
+		<proverb>The squeaky wheel that gets the grease - It's</proverb>
+		<proverb>The truth will out</proverb>
+		<proverb>The wages of sin is death</proverb>
+		<proverb>The way to a man's heart is through his stomach</proverb>
+		<proverb>The whole is greater than the sum of the parts</proverb>
+		<proverb>There are more ways of killing a cat than choking it with cream</proverb>
+		<proverb>There are none so blind as those, that will not see</proverb>
+		<proverb>There are two sides to every question</proverb>
+		<proverb>There but for the grace of God, go I</proverb>
+		<proverb>There's a time and a place for everything</proverb>
+		<proverb>There's an exception to every rule</proverb>
+		<proverb>There's always more fish in the sea</proverb>
+		<proverb>There's honour among thieves</proverb>
+		<proverb>There's many a good tune played on an old fiddle</proverb>
+		<proverb>There's many a slip 'twixt cup and lip</proverb>
+		<proverb>There's more than one way to skin a cat</proverb>
+		<proverb>There's no accounting for tastes</proverb>
+		<proverb>There's no fool like an old fool</proverb>
+		<proverb>There's no place like home</proverb>
+		<proverb>There's no smoke without fire</proverb>
+		<proverb>There's no such thing as a free lunch</proverb>
+		<proverb>There's no such thing as bad publicity</proverb>
+		<proverb>There's no time like the present</proverb>
+		<proverb>There's none so blind as those who will not see</proverb>
+		<proverb>There's none so deaf as those who will not hear</proverb>
+		<proverb>There's nowt so queer as folk</proverb>
+		<proverb>There's one born every minute</proverb>
+		<proverb>There's safety in numbers</proverb>
+		<proverb>They that sow the wind, shall reap the whirlwind</proverb>
+		<proverb>Thing of beauty is a joy forever - A</proverb>
+		<proverb>Third time lucky</proverb>
+		<proverb>Those who do not learn from history are doomed to repeat it</proverb>
+		<proverb>Those who live in glass houses shouldn't throw stones</proverb>
+		<proverb>Those who sleep with dogs will rise with fleas</proverb>
+		<proverb>Trouble shared is a trouble halved - A</proverb>
+		<proverb>Thou shalt not kill</proverb>
+		<proverb>Time and tide wait for no man</proverb>
+		<proverb>Time flies</proverb>
+		<proverb>Time is a great healer</proverb>
+		<proverb>Time is money</proverb>
+		<proverb>Time will tell</proverb>
+		<proverb>'tis better to have loved and lost, than never to have loved at all</proverb>
+		<proverb>To err is human; to forgive divine</proverb>
+		<proverb>To every thing there is a season</proverb>
+		<proverb>To the victor go the spoils</proverb>
+		<proverb>To travel hopefully is a better thing than to arrive</proverb>
+		<proverb>Tomorrow is another day</proverb>
+		<proverb>Tomorrow never comes</proverb>
+		<proverb>Too many cooks spoil the broth</proverb>
+		<proverb>Truth is stranger than fiction</proverb>
+		<proverb>Truth will out</proverb>
+		<proverb>Two blacks don't make a white</proverb>
+		<proverb>Two heads are better than one</proverb>
+		<proverb>Two is company, but three's a crowd</proverb>
+		<proverb>Two sides to every question - There are</proverb>
+		<proverb>Two wrongs don't make a right</proverb>
+		<proverb>Variety is the spice of life</proverb>
+		<proverb>Virtue is its own reward</proverb>
+		<proverb>Volunteer is worth twenty pressed men - A</proverb>
+		<proverb>Wages of sin is death - The</proverb>
+		<proverb>Walls have ears</proverb>
+		<proverb>Walnuts and pears you plant for your heirs</proverb>
+		<proverb>Waste not want not</proverb>
+		<proverb>Watched pot never boils - A</proverb>
+		<proverb>Way to a man's heart is through his stomach - The</proverb>
+		<proverb>What can't be cured must be endured</proverb>
+		<proverb>What goes up must come down</proverb>
+		<proverb>What you lose on the swings you gain on the roundabouts</proverb>
+		<proverb>What's sauce for the goose is sauce for the gander</proverb>
+		<proverb>When in Rome, do as the Romans do</proverb>
+		<proverb>When the cat's away the mice will play</proverb>
+		<proverb>When the going gets tough, the tough get going</proverb>
+		<proverb>When the oak is before the ash, then you will only get a splash; when the ash is before the oak, then you may expect a soak</proverb>
+		<proverb>What the eye doesn't see, the heart doesn't grieve over</proverb>
+		<proverb>Where there's a will there's a way</proverb>
+		<proverb>Where there's muck there's brass</proverb>
+		<proverb>While there's life there's hope</proverb>
+		<proverb>Whole is greater than the sum of the parts - The</proverb>
+		<proverb>Whom the Gods love die young</proverb>
+		<proverb>Why keep a dog and bark yourself?</proverb>
+		<proverb>Woman is only a woman, but a good cigar is a smoke - A</proverb>
+		<proverb>Woman's place is in the home - A</proverb>
+		<proverb>Woman's work is never done</proverb>
+		<proverb>Women and children first</proverb>
+		<proverb>Wonders will never cease</proverb>
+		<proverb>Word to the wise is enough - A</proverb>
+		<proverb>Work expands so as to fill the time available</proverb>
+		<proverb>Worrying never did anyone any good</proverb>
+		<proverb>You are never too old to learn</proverb>
+		<proverb>You are what you eat</proverb>
+		<proverb>You can catch more flies with honey than with vinegar</proverb>
+		<proverb>You can choose your friends but you can't choose your family</proverb>
+		<proverb>You can have too much of a good thing</proverb>
+		<proverb>You can lead a horse to water, but you can't make it drink</proverb>
+		<proverb>You can't have your cake and eat it too</proverb>
+		<proverb>You can't get blood out of a stone</proverb>
+		<proverb>You can't get blood out of a turnip</proverb>
+		<proverb>You can't hold with the hare and run with the hounds</proverb>
+		<proverb>You can't make a silk purse from a sow's ear</proverb>
+		<proverb>You can't make an omelette without breaking eggs</proverb>
+		<proverb>You can't make bricks without straw</proverb>
+		<proverb>You can't run with the hare and hunt with the hounds</proverb>
+		<proverb>You can't take it with you [when you die]</proverb>
+		<proverb>You can't teach an old dog new tricks</proverb>
+		<proverb>You can't judge a book by its cover</proverb>
+		<proverb>You can't win them all</proverb>
+		<proverb>You catch more flies with honey than with vinegar</proverb>
+		<proverb>You pays your money and you takes your choice</proverb>
+		<proverb>You reap what you sow</proverb>
+		<proverb>You win some, you lose some</proverb>
+		<proverb>Youth is wasted on the young</proverb>
+	</Proverbs>
+	<Idioms>
+		<idiom>Above board.</idiom>
+		<idiom>Ad lib.</idiom>
+		<idiom>After all.</idiom>
+		<idiom>Against the grain.</idiom>
+		<idiom>All along.</idiom>
+		<idiom>All ears.</idiom>
+		<idiom>All of a sudden.</idiom>
+		<idiom>All thumbs.</idiom>
+		<idiom>Apple of one's eye.</idiom>
+		<idiom>Apple of discord.</idiom>
+		<idiom>As a rule.</idiom>
+		<idiom>As far as I know.</idiom>
+		<idiom>As far as I am concerned.</idiom>
+		<idiom>As for me/ as to me.</idiom>
+		<idiom>As well.</idiom>
+		<idiom>At first sight.</idiom>
+		<idiom>At odds with.</idiom>
+		<idiom>At random.</idiom>
+		<idiom>Backseat driver.</idiom>
+		<idiom>Ballpark figure.</idiom>
+		<idiom>Bark at the moon.</idiom>
+		<idiom>Bark up the wrong tree.</idiom>
+		<idiom>Be about to.</idiom>
+		<idiom>Be all in.</idiom>
+		<idiom>Be back on one's feet.</idiom>
+		<idiom>Beat around the bush.</idiom>
+		<idiom>Be behind the times.</idiom>
+		<idiom>Be beside oneself.</idiom>
+		<idiom>Be better off.</idiom>
+		<idiom>Be broke.</idiom>
+		<idiom>Be hard on something or someone.</idiom>
+		<idiom>Be high on one's list.</idiom>
+		<idiom>Be in charge of something.</idiom>
+		<idiom>Be in good health.</idiom>
+		<idiom>Be in poor health.</idiom>
+		<idiom>Be in good shape.</idiom>
+		<idiom>Be in bad shape.</idiom>
+		<idiom>Be in the red.</idiom>
+		<idiom>Be on/at the point of something.</idiom>
+		<idiom>Be out of date.</idiom>
+		<idiom>Be out of sorts.</idiom>
+		<idiom>Be pressed for time, for money.</idiom>
+		<idiom>Be to blame.</idiom>
+		<idiom>Be touch and go.</idiom>
+		<idiom>Be up and around / about.</idiom>
+		<idiom>Be up to one's ears in work.</idiom>
+		<idiom>Beat around/about the bush.</idiom>
+		<idiom>Beat one's brains out.</idiom>
+		<idiom>Before long.</idiom>
+		<idiom>Big shot.</idiom>
+		<idiom>Bite off more than one can chew.</idiom>
+		<idiom>Bite the bullet.</idiom>
+		<idiom>Bite the dust.</idiom>
+		<idiom>Bite the hand that feeds one.</idiom>
+		<idiom>Black sheep.</idiom>
+		<idiom>Blind date.</idiom>
+		<idiom>Blow it.</idiom>
+		<idiom>Bottom line.</idiom>
+		<idiom>Break someone's heart.</idiom>
+		<idiom>Break the ice.</idiom>
+		<idiom>Break the news (to someone).</idiom>
+		<idiom>Bring home the bacon.</idiom>
+		<idiom>By all means.</idiom>
+		<idiom>By heart.</idiom>
+		<idiom>By hook or by crook.</idiom>
+		<idiom>By oneself (by myself, by himself, etc.).</idiom>
+		<idiom>By the way.</idiom>
+		<idiom>Call a halt to something.</idiom>
+		<idiom>Call a spade a spade.</idiom>
+		<idiom>Call it a day.</idiom>
+		<idiom>Call the shots.</idiom>
+		<idiom>Call the tune.</idiom>
+		<idiom>Carry weight.</idiom>
+		<idiom>Castles in the air.</idiom>
+		<idiom>Catch someone's eye.</idiom>
+		<idiom>Catch one's breath.</idiom>
+		<idiom>Catch someone off guard.</idiom>
+		<idiom>Catch someone red-handed.</idiom>
+		<idiom>Close call.</idiom>
+		<idiom>Come to one's senses.</idiom>
+		<idiom>Come true.</idiom>
+		<idiom>Cross one's mind.</idiom>
+		<idiom>Do one's best.</idiom>
+		<idiom>Do one's bit.</idiom>
+		<idiom>Do someone good.</idiom>
+		<idiom>Do something behind someone's back.</idiom>
+		<idiom>Down to earth.</idiom>
+		<idiom>Draw the line.</idiom>
+		<idiom>Duty calls.</idiom>
+		<idiom>Eat one's words.</idiom>
+		<idiom>Every now and then.</idiom>
+		<idiom>Every other.</idiom>
+		<idiom>Fall in love (with).</idiom>
+		<idiom>Fall out of love.</idiom>
+		<idiom>False alarm.</idiom>
+		<idiom>A far cry from something.</idiom>
+		<idiom>Feel it in one's bones.</idiom>
+		<idiom>Feel like doing something.</idiom>
+		<idiom>Few and far between.</idiom>
+		<idiom>Find fault with someone or something.</idiom>
+		<idiom>First things first.</idiom>
+		<idiom>Fly off the handle.</idiom>
+		<idiom>Follow in someone's footsteps.</idiom>
+		<idiom>Foot the bill.</idiom>
+		<idiom>For good.</idiom>
+		<idiom>For the time being.</idiom>
+		<idiom>Frame of mind.</idiom>
+		<idiom>From now on.</idiom>
+		<idiom>From the word go.</idiom>
+		<idiom>Get a grip on oneself.</idiom>
+		<idiom>Get carried away.</idiom>
+		<idiom>Get cold feet.</idiom>
+		<idiom>Get even with someone.</idiom>
+		<idiom>Get in touch with someone.</idiom>
+		<idiom>Get to the bottom of something.</idiom>
+		<idiom>Get to the point.</idiom>
+		<idiom>Give me a break!.</idiom>
+		<idiom>Give someone a hand.</idiom>
+		<idiom>Go back on one's word.</idiom>
+		<idiom>Go from bad to worse.</idiom>
+		<idiom>Go to pieces.</idiom>
+		<idiom>Go with the flow.</idiom>
+		<idiom>Have a ball.</idiom>
+		<idiom>Have a bone to pick with someone.</idiom>
+		<idiom>Have a sweet tooth.</idiom>
+		<idiom>Have a word with someone.</idiom>
+		<idiom>Have no business doing something.</idiom>
+		<idiom>Have one's hands full.</idiom>
+		<idiom>Hit the nail on the head.</idiom>
+		<idiom>Hold one's tongue.</idiom>
+		<idiom>Ill at ease.</idiom>
+		<idiom>In advance.</idiom>
+		<idiom>In cold blood.</idiom>
+		<idiom>In fact.</idiom>
+		<idiom>In hot water.</idiom>
+		<idiom>In someone's shoes.</idiom>
+		<idiom>In the long run.</idiom>
+		<idiom>In the same boat.</idiom>
+		<idiom>In the clear.</idiom>
+		<idiom>It goes without saying.</idiom>
+		<idiom>Jump at the opportunity.</idiom>
+		<idiom>Just as soon.</idiom>
+		<idiom>Just in case.</idiom>
+		<idiom>Keep a straight face.</idiom>
+		<idiom>Keep company.</idiom>
+		<idiom>Keep in mind.</idiom>
+		<idiom>Keep one's word.</idiom>
+		<idiom>Keep someone posted.</idiom>
+		<idiom>Keep one's fingers crossed.</idiom>
+		<idiom>Kill time.</idiom>
+		<idiom>Know the ropes.</idiom>
+		<idiom>Lay one's cards on the table.</idiom>
+		<idiom>Lay one's life on the line.</idiom>
+		<idiom>Lead a dog's life.</idiom>
+		<idiom>Leave word.</idiom>
+		<idiom>Let go of something.</idiom>
+		<idiom>Let one's hair down.</idiom>
+		<idiom>Let someone know.</idiom>
+		<idiom>Like father, like son.</idiom>
+		<idiom>Little by little.</idiom>
+		<idiom>Lose one's temper.</idiom>
+		<idiom>Lose one's way.</idiom>
+		<idiom>Lose track of someone.</idiom>
+		<idiom>Lucky break.</idiom>
+		<idiom>Make a living.</idiom>
+		<idiom>Make allowance(s) for something.</idiom>
+		<idiom>Make a point of.</idiom>
+		<idiom>Make friends.</idiom>
+		<idiom>Make fun of someone or something.</idiom>
+		<idiom>Make room for someone.</idiom>
+		<idiom>Make up one's mind.</idiom>
+		<idiom>Make yourself at home.</idiom>
+		<idiom>Mean well.</idiom>
+		<idiom>Might as well.</idiom>
+		<idiom>Never mind.</idiom>
+		<idiom>Now and again.</idiom>
+		<idiom>Off the cuff.</idiom>
+		<idiom>Off the point.</idiom>
+		<idiom>Off the record.</idiom>
+		<idiom>Once and for all.</idiom>
+		<idiom>On credit.</idiom>
+		<idiom>On edge.</idiom>
+		<idiom>On guard.</idiom>
+		<idiom>On hand.</idiom>
+		<idiom>On one hand/on the one hand.</idiom>
+		<idiom>On one's toes.</idiom>
+		<idiom>On purpose.</idiom>
+		<idiom>On second thought.</idiom>
+		<idiom>On the alert.</idiom>
+		<idiom>On the carpet.</idiom>
+		<idiom>On the go.</idiom>
+		<idiom>On the other hand.</idiom>
+		<idiom>On the spot.</idiom>
+		<idiom>On the spur of the moment.</idiom>
+		<idiom>On the tip of one's tongue.</idiom>
+		<idiom>Out of one's mind.</idiom>
+		<idiom>Out of one's way.</idiom>
+		<idiom>Out of the question.</idiom>
+		<idiom>Pack rat.</idiom>
+		<idiom>Pay attention.</idiom>
+		<idiom>Pick a fight.</idiom>
+		<idiom>Put one's foot down.</idiom>
+		<idiom>Right away.</idiom>
+		<idiom>Ring a bell.</idiom>
+		<idiom>See red.</idiom>
+		<idiom>Take a break.</idiom>
+		<idiom>Take it easy.</idiom>
+		<idiom>Take something for granted.</idiom>
+		<idiom>Take steps.</idiom>
+		<idiom>Take time.</idiom>
+		<idiom>Twist someone's arm.</idiom>
+		<idiom>Under the weather.</idiom>
+		<idiom>Up-and-coming.</idiom>
+		<idiom>Up in the air.</idiom>
+		<idiom>Up to date.</idiom>
+		<idiom>Walk on air.</idiom>
+		<idiom>Waste ones breath.</idiom>
+		<idiom>Watch one's step.</idiom>
+		<idiom>White lie.</idiom>
+		<idiom>Word for word.</idiom>
+	</Idioms>
+</ProverbsAndIdioms>

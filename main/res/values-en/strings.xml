@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proverbs And Idioms Dictionary</string>
+    <string name="aramaCubugu">Type the word you want to search</string>
+    <string name="atasozuArama">Search Proverb</string>
+    <string name="deyimArama">Search Idiom</string>
+    <string name="hataliGiris">Wrong Input</string>
+    <string name="arananKelimeBulunmadi">Searched word was not found</string>
+    <string name="veritabanıHazirlaniyor">Preparing database...</string>
+</resources>
